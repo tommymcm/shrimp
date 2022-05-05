@@ -1,2 +1,2 @@
 # shrimp
-SHell foR Interesting acronyM Purposes
+**SH**ell fo**R** **I**nteresting acrony**M** **P**urposes
